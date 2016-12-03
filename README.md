@@ -24,9 +24,9 @@ Reference:
 
 [how to auto scroll a listbox when dragging a listtiem??](http://www.zkoss.org/forum/listComment/18391-how-to-auto-scroll-a-listbox-when-dragging-a-listtiem)
 
-### togglebutton
+### ZK Hello World HaHa HaHa
 
-A [ZK Macro Component](http://books.zkoss.org/wiki/ZK%20Developer's%20Reference/UI%20Composing/Macro%20Component) as the Star button in GMail.
+[ZK Macro Component](http://books.zkoss.org/wiki/ZK%20Developer's%20Reference/UI%20Composing/Macro%20Component) as the Star button in GMail.
 
 References:
 
